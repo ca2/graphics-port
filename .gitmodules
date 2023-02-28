@@ -1,0 +1,9 @@
+[submodule "cairo"]
+	path = cairo
+	url = ../../cpp-port/cairo
+[submodule "freetype"]
+	path = freetype
+	url = ../../cpp-port/freetype
+[submodule "pixman"]
+	path = pixman
+	url = ../../cpp-port/pixman
