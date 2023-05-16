@@ -7,3 +7,7 @@
 [submodule "pixman"]
 	path = pixman
 	url = ../../cpp-port/pixman
+[submodule "clipper"]
+	path = clipper
+	url = ../../cpp-port/clipper
+	branch = main
