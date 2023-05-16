@@ -11,3 +11,7 @@
 	path = clipper
 	url = ../../cpp-port/clipper
 	branch = main
+[submodule "polyclipping"]
+	path = polyclipping
+	url = ../../cpp-port/polyclipping
+	branch = main
